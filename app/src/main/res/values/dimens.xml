@@ -15,8 +15,8 @@
   ~ limitations under the License.
   -->
 <resources>
-    <string name="app_name">Basic RecyclerView sample</string>
-    <string name="element_text">Element</string>
-    <string name="item_element_text">This is element #</string>
-    <string name="middle">This is the middle!</string>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="list_item_height">72dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
 </resources>
